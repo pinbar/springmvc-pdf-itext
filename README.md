@@ -1,4 +1,4 @@
-A demo of PDF document generation from a java bean using iText. Both html and pdf views are rendered by chaining the view resolvers.
+A demonstration of PDF document generation from a java bean using iText. Both html and pdf views are rendered by chaining the view resolvers.
 
 An older version of iText is used because:
 
